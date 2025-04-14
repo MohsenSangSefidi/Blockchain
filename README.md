@@ -15,5 +15,5 @@
 
 ## پیش نیاز ها
 
-- قرار دارد requierments ابزار های لازم در فایل
+- ابزار های لازم در فایل requirments قرار دارد.
 - [Api Documents](https://apidog.com/apidoc/shared-8ce54f8d-a921-42f4-a3f3-671d7d7858ea)
